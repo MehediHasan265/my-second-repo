@@ -13,3 +13,8 @@ ul{
     width: 100px;
     height: 100px;
 }
+img{
+    margin: 10px;
+    height: 40%;
+    width: 40%;
+}
