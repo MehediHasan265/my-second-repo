@@ -4,3 +4,12 @@ h1{
 p{
     color: red;
 }
+ul{
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    background-color: yellow;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+}
